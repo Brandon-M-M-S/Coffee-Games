@@ -1,0 +1,20 @@
+.social-media{
+    width: 50;
+    display: flex;
+    justify-content: flex-end;
+
+}
+.social-media-icon{
+    display: inline-block;
+    margin-left: 20px;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+}
+.social-media-icon i{
+font-size: 40px;
+line-height: 62px;
+}
